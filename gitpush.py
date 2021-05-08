@@ -8,10 +8,10 @@ g = Github(user,password)
 repo = g.get_user().get_repo('git-test') # repo name
 file_list = [
     (filedir///)
+rm -rf git
 ]
 file_names = [
-    Enter File name
-    print("Enter Files name")$a
+ ###Include File name
 ]
 commit_message = 'python commit'
 master_ref = repo.get_git_ref('heads/master')
